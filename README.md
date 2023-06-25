@@ -1,6 +1,6 @@
 # 課題７
 ●期限：2023/6/23　●提出日：2023/6/26
-# PHP初回 「ブックマークアプリ」（登録・表示）
+# PHP初回 「Bookmarkアプリ」（今日聴いた音楽を記録していくアプリ）（登録・表示）
 
 ## DEMO
 https://github.com/Ryota2023/PHP-Bookmark1.git
